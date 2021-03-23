@@ -670,8 +670,6 @@ github.com/stretchr/testify v1.6.1 h1:hDPOHmpOpP40lSULcqw7IrRb/u7w6RpDC9399XyoNd
 github.com/stretchr/testify v1.6.1/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
 github.com/subosito/gotenv v1.2.0 h1:Slr1R9HxAlEKefgq5jn9U+DnETlIUa6HfgEzj0g5d7s=
 github.com/subosito/gotenv v1.2.0/go.mod h1:N0PQaV/YGNqwC0u51sEeR/aUtSLEXKX9iv69rRypqCw=
-github.com/swatisehgal/topologyapi v0.0.0-20201002094043-bc432ffbe41c h1:BoT3ZVd53R7EpqhJHfPPbco31ZYqJsfr6rVu5bVUqnM=
-github.com/swatisehgal/topologyapi v0.0.0-20201002094043-bc432ffbe41c/go.mod h1:9CKMMS83d72bYp2AIc7VSV9acET7rHyBFAnUvdISijI=
 github.com/syndtr/gocapability v0.0.0-20180916011248-d98352740cb2 h1:b6uOv7YOFK0TYG7HtkIgExQo+2RdLuwRft63jn2HWj8=
 github.com/syndtr/gocapability v0.0.0-20180916011248-d98352740cb2/go.mod h1:hkRG7XYTFWNJGYcbNJQlaLq0fg1yr4J4t/NcTQtrfww=
 github.com/thecodeteam/goscaleio v0.1.0 h1:SB5tO98lawC+UK8ds/U2jyfOCH7GTcFztcF5x9gbut4=
@@ -1085,7 +1083,6 @@ k8s.io/mount-utils v0.20.0-beta.2/go.mod h1:Jv9NRZ5L2LF87A17GaGlArD+r3JAJdZFvo4X
 k8s.io/sample-apiserver v0.20.0-beta.2 h1:PalcGiN/FvcUkk3RWzi6/aaQZPc/RoFgZ5NFavaNUIA=
 k8s.io/sample-apiserver v0.20.0-beta.2/go.mod h1:Wc1joHAptwu3b1hA6VtMeC4SUlo7j3rHI77vTuTHRV0=
 k8s.io/system-validators v1.2.0/go.mod h1:bPldcLgkIUK22ALflnsXk8pvkTEndYdNuaHH6gRrl0Q=
-k8s.io/utils v0.0.0-20200720150651-0bdb4ca86cbc/go.mod h1:jPW/WVKK9YHAvNhRxK0md/EJ228hCsBRufyofKtW8HA=
 k8s.io/utils v0.0.0-20201110183641-67b214c5f920 h1:CbnUZsM497iRC5QMVkHwyl8s2tB3g7yaSHkYPkpgelw=
 k8s.io/utils v0.0.0-20201110183641-67b214c5f920/go.mod h1:jPW/WVKK9YHAvNhRxK0md/EJ228hCsBRufyofKtW8HA=
 modernc.org/cc v1.0.0/go.mod h1:1Sk4//wdnYJiUIxnW8ddKpaOJCF37yAdqYnkxUpaYxw=

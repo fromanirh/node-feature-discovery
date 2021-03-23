@@ -12,9 +12,9 @@ require (
 	github.com/klauspost/cpuid v1.2.0
 	github.com/onsi/ginkgo v1.11.0
 	github.com/onsi/gomega v1.7.0
+	github.com/pkg/errors v0.9.1
 	github.com/smartystreets/goconvey v1.6.4
 	github.com/stretchr/testify v1.6.1
-	github.com/swatisehgal/topologyapi v0.0.0-20201002094043-bc432ffbe41c
 	github.com/vektra/errors v0.0.0-20140903201135-c64d83aba85a
 	golang.org/x/net v0.0.0-20210119194325-5f4716e94777
 	golang.org/x/sync v0.0.0-20201020160332-67f06af15bc9 // indirect
