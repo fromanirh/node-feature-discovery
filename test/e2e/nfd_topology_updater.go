@@ -40,7 +40,7 @@ import (
 	testutils "sigs.k8s.io/node-feature-discovery/test/e2e/utils"
 )
 
-var _ = framework.KubeDescribe("[NFD] Node topology updater", func() {
+var _ = ginkgo.Describe("[NFD] Node topology updater", func() {
 	var (
 		extClient           *extclient.Clientset
 		topologyClient      *topologyclientset.Clientset
